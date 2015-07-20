@@ -43,6 +43,7 @@
     <!-- Plugins -->
 
     <!-- Core plugins -->
+    <gap:splash src="splash.png" />
     <gap:plugin name="org.apache.cordova.battery-status" />
     <gap:plugin name="org.apache.cordova.camera" />
     <gap:plugin name="org.apache.cordova.media-capture" />
